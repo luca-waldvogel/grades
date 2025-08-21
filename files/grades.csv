@@ -1,0 +1,28 @@
+Module;Name;Exam type;Date;Weight;Grade;Semester
+Module 117;Implement IT and network infrastructure for a small business;Intermediate exam;24.09.2024;0.5;5.8;1
+Module 117;Implement IT and network infrastructure for a small business;Project;29.10.2024;0.5;6;1
+Module 162;Analyze and model data;Intermediate exam;28.09.2024;0.5;5.6;1
+Module 162;Analyze and model data;Final exam;02.11.2024;0.5;5.8;1
+Module 319;Design and implement applications;Intermediate exam;28.09.2024;0.5;6;1
+Module 319;Design and implement applications;Final exam;02.11.2024;0.5;5.4;1
+Module 431;Carry out tasks in your own professional field independently;Final exam;02.11.2024;1;5.5;1
+Module 114;Apply coding, compression, and encryption methods;Presentation;30.11.2024;0.5;5.7;1
+Module 114;Apply coding, compression, and encryption methods;Final exam;21.12.2024;0.5;5.3;1
+Module 164;Create databases and insert data;Intermediate exam;30.11.2024;0.5;5.9;1
+Module 164;Create databases and insert data;Final exam;21.12.2024;0.5;5.9;1
+Module 187;Set up an ICT workstation with an operating system;Final exam;10.12.2024;1;5.5;1
+Module 123;Deploy server services;Project;09.01.2024;1;5.5;1
+Module 122;Automate processes in system administration using scripts;Intermediate exam;13.02.2025;0.5;6;1
+Module 122;Automate processes in system administration using scripts;Project;13.03.2025;0.5;5;1
+Module 231;Apply data protection and data security;Intermediate exam;08.02.2025;0.3;5.5;1
+Module 231;Apply data protection and data security;Project;15.03.2025;0.7;5.9;1
+Module 106;Query, modify, and maintain databases;Final exam;04.03.2025;1;6;1
+Module 254;Describe business processes in your own professional environment;Final exam;15.02.2025;1;5.5;1
+Module 295;Develop a backend for applications;Project;12.04.2025;1;5.75;2
+Module 294;Develop the frontend of an interactive web application;Project;24.06.2025;1;5.75;2
+Module 293;Create and publish a website;Project;13.05.2025;1;5;2
+Module 165;Use NoSQL databases;Final exam practical;22.05.2025;0.5;5.5;2
+Module 165;Use NoSQL databases;Final exam theory;05.06.2025;0.5;5.5;2
+Module 426;Develop software using agile methods;Final exam;08.07.2025;1;6;2
+Module 322;Design and implement user interfaces;Final exam;12.07.2025;1;6;2
+Module 320;Object-oriented programming;Final exam;05.07.2025;1;5.5;2
