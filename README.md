@@ -1,7 +1,9 @@
-# 📚 Grade Tracker (Python CLI)
+# 📚 Grade Tracker
 
 This is a small **Python command-line application** I built specifically for my **school** to keep track of my grades.  
 It allows me to **enter new grades, calculate averages, and organize results by semester and module** — all stored in a simple CSV file.  
+
+This project helped me to understand the work with data in CSV files.
 
 ---
 
